@@ -1,4 +1,4 @@
-# Getting Started with Cic-Live-React-App
+# Getting Started with Cric-Live-React-App
 This is the simple react project where i have fetched data of matches from cricapi website.
 
 This project live is here => [Cric live React app](https://criclive-application.web.app/).
